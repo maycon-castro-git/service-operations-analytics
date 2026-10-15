@@ -6,8 +6,8 @@ Pipeline de dados automatizado que consome a API do sistema de OS (SISOP) usado 
 
 > **Status:** em produção · atualização diária via GitHub Actions
 
-![](https://github.com/maycon-castro-git/service-operations-analytics/blob/main/dashboard/service-operations-dashboard.pdf)>
-]([image-1.png](https://github.com/maycon-castro-git/service-operations-analytics/blob/main/dashboard/service-operations-dashboard.pdf))]
+![Dashboard EACE](<img width="1724" height="944" alt="image" src="https://github.com/user-attachments/assets/c1ebc036-b8f4-408e-84ed-e8b5c931ee86" />
+)
 
 ## O problema
 
