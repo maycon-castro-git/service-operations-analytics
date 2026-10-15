@@ -78,7 +78,7 @@ Campos que a API não fornece e ficam em branco: Cidade, Prioridade, Causa1/2/3,
 ## Como rodar localmente
 
 ```bash
-git clone <url-do-repositorio>
+git clone <(https://github.com/maycon-castro-git/service-operations-analytics.git)>
 cd <pasta-do-projeto>
 pip install -r requirements.txt
 cp .env.example .env   # preencha com suas credenciais
