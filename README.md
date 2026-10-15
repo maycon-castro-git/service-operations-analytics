@@ -6,7 +6,8 @@ Pipeline de dados automatizado que consome a API do sistema de OS (SISOP) usado 
 
 > **Status:** em produção · atualização diária via GitHub Actions
 
-![![alt text](image-1.png)]
+![![<img width="1724" height="944" alt="image" src="https://github.com/user-attachments/assets/0c011416-520f-4eb1-ad96-59e9a78f80f8" />
+](image-1.png)]
 
 ## O problema
 
@@ -78,7 +79,7 @@ Campos que a API não fornece e ficam em branco: Cidade, Prioridade, Causa1/2/3,
 ## Como rodar localmente
 
 ```bash
-git clone <(https://github.com/maycon-castro-git/service-operations-analytics.git)>
+git clone maycon-castro-git/service-operations-analytics.git
 cd <pasta-do-projeto>
 pip install -r requirements.txt
 cp .env.example .env   # preencha com suas credenciais
@@ -125,4 +126,4 @@ Principais indicadores acompanhados: volume de OS por status, tempo de resoluç�
 
 **Maycon Castro** — Analista de Dados & Business Intelligence
 
-[GitHub](https://github.com/maycon-castro-git) · [LinkedIn](#) · [Portfólio](#)
+[GitHub](https://github.com/maycon-castro-git) · [LinkedIn](www.linkedin.com/in/maycon-castro) · [Portfólio](https://maycon-castro-git.github.io/portfolio-maycon-castro/)
